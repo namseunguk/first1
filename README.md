@@ -6,4 +6,4 @@
 3. 턴할때 힘을 좀더 많이 주었다.(턴하다가 파워가 약해서 밀리는 경우가 있으므로
 4. 이 동물은 하마나, 오리너구리가 아닌 코뿔소 이다.
 
-![ㅁㄴㅇㄹㄷ1](https://user-images.githubusercontent.com/69707758/90594968-bade8000-e226-11ea-903a-f449859d807b.jpg)
+![Uploading battelrobot.jpg…]()
